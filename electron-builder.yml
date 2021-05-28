@@ -1,0 +1,4 @@
+appId: com.example.actualizaciones
+publish:
+  provider: github
+  token: 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
